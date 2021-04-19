@@ -14,6 +14,16 @@
 7. Delete Secrets
 8. Logout
 
+### Technology Stack
+1. HTML
+2. CSS
+3. Bootstrap 4
+4. JavaScript
+5. JQuery
+6. Node.JS
+7. Express.JS
+8. MongoDB
+
 ## Landing Page
 
 <img src="https://github.com/bhupatjangid/my_secrets/blob/main/landing_page.JPG" width="800"/>
