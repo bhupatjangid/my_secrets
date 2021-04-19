@@ -63,14 +63,30 @@ app.get('/secrets/:newId',function(req,res){
 })
 
 app.post('/register',function(req,res){
-    const item = new User({
-        email:req.body.username,
-        password:req.body.password,
-        list:myArray
+    const email=req.body.username;
+    const password=req.body.password;
+    User.findOne({email:email},function(err,result){
+        
+        if(err){
+            console.log(err);
+        }else{
+            if(result.password === password){
+                res.redirect('/secrets/'+result._id)
+            }
+            else{
+                const item = new User({
+                    email:req.body.username,
+                    password:req.body.password,
+                    list:myArray
+                })
+                
+                item.save()
+                res.redirect('/secrets/'+item._id)
+            }
+        }
     })
+
     
-    item.save()
-    res.redirect('/secrets/'+item._id)
 })
 
 
