@@ -1,6 +1,7 @@
 # my_secrets
 - This is a web application contains secret page for each successfully registered users.
 - In secret page user can see all of his secrets and he can insert new secrets or delete some of the existing secrets.
+- User can access all secret items anytime any where.
 
 ### Website link: https://gentle-journey-97754.herokuapp.com/
 
