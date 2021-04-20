@@ -3,7 +3,7 @@
 - In secret page user can see all of his secrets and he can insert new secrets or delete some of the existing secrets.
 - User can access all secret items anytime any where.
 
-### Website link: https://gentle-journey-97754.herokuapp.com/
+### Website link: https://bhupatsecrets.herokuapp.com/
 
 ### Features
 1. Responsive UI
