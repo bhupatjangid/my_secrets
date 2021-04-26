@@ -32,12 +32,20 @@
 
 ## Register Page
 
-<img src="https://github.com/bhupatjangid/my_secrets/blob/main/register_page.JPG" width="800"/>
+<img src="https://github.com/bhupatjangid/my_secrets/blob/main/register.JPG" width="800"/>
+
+## Register varification Page
+
+<img src="https://github.com/bhupatjangid/my_secrets/blob/main/reg_var.JPG" width="800"/>
 
 
 ## Login Page
 
-<img src="https://github.com/bhupatjangid/my_secrets/blob/main/login_page.JPG" width="800"/>
+<img src="https://github.com/bhupatjangid/my_secrets/blob/main/login.JPG" width="800"/>
+
+## Login varification Page
+
+<img src="https://github.com/bhupatjangid/my_secrets/blob/main/login_password.JPG" width="800"/>
 
 
 ## Secrets Page
